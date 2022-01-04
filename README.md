@@ -1,6 +1,6 @@
 ﻿# Sentences_Generator
 
-## le repertoire data :
+## Le repertoire data :
   - il faudrait ajouter votre corpus dans ce repertoire afin de generer vos modéles. 
   - Nous avons tout de même garder 2 fichiers afin de pouvoir tester les modèles.
 
